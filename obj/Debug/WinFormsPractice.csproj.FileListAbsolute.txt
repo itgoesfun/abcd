@@ -7,3 +7,6 @@ c:\users\vimalik\documents\visual studio 2013\Projects\WinFormsPractice\WinForms
 c:\users\vimalik\documents\visual studio 2013\Projects\WinFormsPractice\WinFormsPractice\obj\Debug\WinFormsPractice.csproj.GenerateResource.Cache
 c:\users\vimalik\documents\visual studio 2013\Projects\WinFormsPractice\WinFormsPractice\obj\Debug\WinFormsPractice.exe
 c:\users\vimalik\documents\visual studio 2013\Projects\WinFormsPractice\WinFormsPractice\obj\Debug\WinFormsPractice.pdb
+C:\Users\vimalik\Desktop\dev\windowapp\bin\Debug\WinFormsPractice.exe.config
+C:\Users\vimalik\Desktop\dev\windowapp\obj\Debug\WinFormsPractice.exe
+C:\Users\vimalik\Desktop\dev\windowapp\obj\Debug\WinFormsPractice.pdb
