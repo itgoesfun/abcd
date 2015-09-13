@@ -1,0 +1,9 @@
+c:\users\vimalik\documents\visual studio 2013\Projects\WinFormsPractice\WinFormsPractice\bin\Debug\WinFormsPractice.exe.config
+c:\users\vimalik\documents\visual studio 2013\Projects\WinFormsPractice\WinFormsPractice\bin\Debug\WinFormsPractice.exe
+c:\users\vimalik\documents\visual studio 2013\Projects\WinFormsPractice\WinFormsPractice\bin\Debug\WinFormsPractice.pdb
+c:\users\vimalik\documents\visual studio 2013\Projects\WinFormsPractice\WinFormsPractice\obj\Debug\WinFormsPractice.csprojResolveAssemblyReference.cache
+c:\users\vimalik\documents\visual studio 2013\Projects\WinFormsPractice\WinFormsPractice\obj\Debug\WinFormsPractice.Form1.resources
+c:\users\vimalik\documents\visual studio 2013\Projects\WinFormsPractice\WinFormsPractice\obj\Debug\WinFormsPractice.Properties.Resources.resources
+c:\users\vimalik\documents\visual studio 2013\Projects\WinFormsPractice\WinFormsPractice\obj\Debug\WinFormsPractice.csproj.GenerateResource.Cache
+c:\users\vimalik\documents\visual studio 2013\Projects\WinFormsPractice\WinFormsPractice\obj\Debug\WinFormsPractice.exe
+c:\users\vimalik\documents\visual studio 2013\Projects\WinFormsPractice\WinFormsPractice\obj\Debug\WinFormsPractice.pdb
